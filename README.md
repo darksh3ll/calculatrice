@@ -1,3 +1,4 @@
 # Calculatrice responsive
 
-/ScreenFlow.gif
+
+![](ScreenFlow.gif)
